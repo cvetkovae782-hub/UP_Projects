@@ -1,4 +1,0 @@
-﻿  kvhghkk.cpp
-H:\уп\Project5\Project5\kvhghkk.cpp(5,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-H:\уп\Project5\Project5\kvhghkk.cpp(12,15): error C2065: static_pointer_cast: необъявленный идентификатор
-H:\уп\Project5\Project5\kvhghkk.cpp(12,35): error C2062: тип "int" не требуется
